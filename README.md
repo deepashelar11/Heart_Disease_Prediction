@@ -1,6 +1,6 @@
 <h1 align="center">Heart Disease Prediction</h1>
 
-<p align="center">The main objective of this project is to develop an Intelligent Heart Disease Prediction System. Intelligent Heart Disease Prediction System can discover and extract hidden knowledge (patterns and relationships) associated with heart disease from predefined heart disease datasets. It can answer complex queries for diagnosing heart disease and thus assist healthcare practitioners in making intelligent clinical decisions which traditional decision support systems cannot. By providing effective treatments, it also helps to reduce treatment costs. It displays the results in textual form to enhance visualization and ease of interpretation.</p>
+<p align="left">The main objective of this project is to develop an Intelligent Heart Disease Prediction System. Intelligent Heart Disease Prediction System can discover and extract hidden knowledge (patterns and relationships) associated with heart disease from predefined heart disease datasets. It can answer complex queries for diagnosing heart disease and thus assist healthcare practitioners in making intelligent clinical decisions which traditional decision support systems cannot. By providing effective treatments, it also helps to reduce treatment costs. It displays the results in textual form to enhance visualization and ease of interpretation.</p>
 
 ## Available Commands
 
